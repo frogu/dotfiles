@@ -1,0 +1,10 @@
+hardstatus alwayslastline '%{wk}[ %{G}%H %{g}][%= %{wk}%?%-Lw%?%{=b kR}(%{W}%n*%f %t%?(%u)%?%{=b kR})%{= kw}%?%+Lw%?%?%= %{g}][%{Y}%l%{g}]%{=b C}[ %c ]%{W}'
+
+altscreen on
+term screen-256color
+startup_message off
+setenv LC_CTYPE en_US.UTF-8
+defutf8 on
+nonblock on
+vbell off
+
