@@ -8,3 +8,8 @@ defutf8 on
 nonblock on
 vbell off
 
+screen -t ekg 0 ekg2
+screen -t su 1 sudo -i
+select 0
+
+
