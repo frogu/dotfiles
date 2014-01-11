@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<playlist version="1" xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/">
+		<title>DVB Playlist</title>
+		<trackList>
+			<track>
+				<title>0001. Polsat</title>
+				<location>dvb-t://frequency=490000000:inversion=2:bandwidth=8:code-rate-hp=9:code-rate-lp=9:modulation=0:transmission=0:guard=0:hierarchy=0</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>2</vlc:id>
+					<vlc:option>program=3</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0002. TVN</title>
+				<location>dvb-t://frequency=490000000:inversion=2:bandwidth=8:code-rate-hp=9:code-rate-lp=9:modulation=0:transmission=0:guard=0:hierarchy=0</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>3</vlc:id>
+					<vlc:option>program=4</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0003. TV4</title>
+				<location>dvb-t://frequency=490000000:inversion=2:bandwidth=8:code-rate-hp=9:code-rate-lp=9:modulation=0:transmission=0:guard=0:hierarchy=0</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>4</vlc:id>
+					<vlc:option>program=5</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0004. TV Puls</title>
+				<location>dvb-t://frequency=490000000:inversion=2:bandwidth=8:code-rate-hp=9:code-rate-lp=9:modulation=0:transmission=0:guard=0:hierarchy=0</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>5</vlc:id>
+					<vlc:option>program=6</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0005. TVN Siedem</title>
+				<location>dvb-t://frequency=490000000:inversion=2:bandwidth=8:code-rate-hp=9:code-rate-lp=9:modulation=0:transmission=0:guard=0:hierarchy=0</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>6</vlc:id>
+					<vlc:option>program=23</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0006. PULS 2</title>
+				<location>dvb-t://frequency=490000000:inversion=2:bandwidth=8:code-rate-hp=9:code-rate-lp=9:modulation=0:transmission=0:guard=0:hierarchy=0</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>7</vlc:id>
+					<vlc:option>program=24</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0007. TV6</title>
+				<location>dvb-t://frequency=490000000:inversion=2:bandwidth=8:code-rate-hp=9:code-rate-lp=9:modulation=0:transmission=0:guard=0:hierarchy=0</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>8</vlc:id>
+					<vlc:option>program=25</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0008. Polsat Sport News</title>
+				<location>dvb-t://frequency=490000000:inversion=2:bandwidth=8:code-rate-hp=9:code-rate-lp=9:modulation=0:transmission=0:guard=0:hierarchy=0</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>9</vlc:id>
+					<vlc:option>program=26</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0009. TVP1 HD</title>
+				<location>dvb-t://frequency=506000000:inversion=2:bandwidth=8:code-rate-hp=9:code-rate-lp=9:modulation=0:transmission=0:guard=0:hierarchy=0</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>10</vlc:id>
+					<vlc:option>program=1</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0010. ESKA TV</title>
+				<location>dvb-t://frequency=506000000:inversion=2:bandwidth=8:code-rate-hp=9:code-rate-lp=9:modulation=0:transmission=0:guard=0:hierarchy=0</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>11</vlc:id>
+					<vlc:option>program=27</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0011. TTV</title>
+				<location>dvb-t://frequency=506000000:inversion=2:bandwidth=8:code-rate-hp=9:code-rate-lp=9:modulation=0:transmission=0:guard=0:hierarchy=0</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>12</vlc:id>
+					<vlc:option>program=28</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0012. POLO TV</title>
+				<location>dvb-t://frequency=506000000:inversion=2:bandwidth=8:code-rate-hp=9:code-rate-lp=9:modulation=0:transmission=0:guard=0:hierarchy=0</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>13</vlc:id>
+					<vlc:option>program=29</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0013. ATM Rozrywka</title>
+				<location>dvb-t://frequency=506000000:inversion=2:bandwidth=8:code-rate-hp=9:code-rate-lp=9:modulation=0:transmission=0:guard=0:hierarchy=0</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>14</vlc:id>
+					<vlc:option>program=30</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0014. TVP2</title>
+				<location>dvb-t://frequency=506000000:inversion=2:bandwidth=8:code-rate-hp=9:code-rate-lp=9:modulation=0:transmission=0:guard=0:hierarchy=0</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>15</vlc:id>
+					<vlc:option>program=45</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0015. TVP Info</title>
+				<location>dvb-t://frequency=506000000:inversion=2:bandwidth=8:code-rate-hp=9:code-rate-lp=9:modulation=0:transmission=0:guard=0:hierarchy=0</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>16</vlc:id>
+					<vlc:option>program=35</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0016. TVP1</title>
+				<location>dvb-t://frequency=578000000:inversion=2:bandwidth=8:code-rate-hp=9:code-rate-lp=9:modulation=0:transmission=0:guard=0:hierarchy=0</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>17</vlc:id>
+					<vlc:option>program=44</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0017. TVP2 HD</title>
+				<location>dvb-t://frequency=578000000:inversion=2:bandwidth=8:code-rate-hp=9:code-rate-lp=9:modulation=0:transmission=0:guard=0:hierarchy=0</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>18</vlc:id>
+					<vlc:option>program=2</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0018. TVP Krakow</title>
+				<location>dvb-t://frequency=578000000:inversion=2:bandwidth=8:code-rate-hp=9:code-rate-lp=9:modulation=0:transmission=0:guard=0:hierarchy=0</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>19</vlc:id>
+					<vlc:option>program=13</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0019. TVP Kultura</title>
+				<location>dvb-t://frequency=578000000:inversion=2:bandwidth=8:code-rate-hp=9:code-rate-lp=9:modulation=0:transmission=0:guard=0:hierarchy=0</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>20</vlc:id>
+					<vlc:option>program=31</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0020. TVP Polonia</title>
+				<location>dvb-t://frequency=578000000:inversion=2:bandwidth=8:code-rate-hp=9:code-rate-lp=9:modulation=0:transmission=0:guard=0:hierarchy=0</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>21</vlc:id>
+					<vlc:option>program=33</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0021. TVP Rozrywka</title>
+				<location>dvb-t://frequency=578000000:inversion=2:bandwidth=8:code-rate-hp=9:code-rate-lp=9:modulation=0:transmission=0:guard=0:hierarchy=0</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>22</vlc:id>
+					<vlc:option>program=34</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0022. TVP Historia</title>
+				<location>dvb-t://frequency=578000000:inversion=2:bandwidth=8:code-rate-hp=9:code-rate-lp=9:modulation=0:transmission=0:guard=0:hierarchy=0</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>23</vlc:id>
+					<vlc:option>program=32</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0023. TVP1</title>
+				<location>dvb-t://frequency=706000000:inversion=2:bandwidth=8:code-rate-hp=5:code-rate-lp=0:modulation=64:transmission=8:guard=4:hierarchy=-1</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>24</vlc:id>
+					<vlc:option>program=44</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0024. TVP2 HD</title>
+				<location>dvb-t://frequency=706000000:inversion=2:bandwidth=8:code-rate-hp=5:code-rate-lp=0:modulation=64:transmission=8:guard=4:hierarchy=-1</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>25</vlc:id>
+					<vlc:option>program=2</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0025. TVP Krakow</title>
+				<location>dvb-t://frequency=706000000:inversion=2:bandwidth=8:code-rate-hp=5:code-rate-lp=0:modulation=64:transmission=8:guard=4:hierarchy=-1</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>26</vlc:id>
+					<vlc:option>program=13</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0026. TVP Kultura</title>
+				<location>dvb-t://frequency=706000000:inversion=2:bandwidth=8:code-rate-hp=5:code-rate-lp=0:modulation=64:transmission=8:guard=4:hierarchy=-1</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>27</vlc:id>
+					<vlc:option>program=31</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0027. TVP Polonia</title>
+				<location>dvb-t://frequency=706000000:inversion=2:bandwidth=8:code-rate-hp=5:code-rate-lp=0:modulation=64:transmission=8:guard=4:hierarchy=-1</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>28</vlc:id>
+					<vlc:option>program=33</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0028. TVP Rozrywka</title>
+				<location>dvb-t://frequency=706000000:inversion=2:bandwidth=8:code-rate-hp=5:code-rate-lp=0:modulation=64:transmission=8:guard=4:hierarchy=-1</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>29</vlc:id>
+					<vlc:option>program=34</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0029. TVP Historia</title>
+				<location>dvb-t://frequency=706000000:inversion=2:bandwidth=8:code-rate-hp=5:code-rate-lp=0:modulation=64:transmission=8:guard=4:hierarchy=-1</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>30</vlc:id>
+					<vlc:option>program=32</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0030. TVP Seriale</title>
+				<location>dvb-t://frequency=674000000:inversion=2:bandwidth=8:code-rate-hp=9:code-rate-lp=9:modulation=0:transmission=0:guard=0:hierarchy=0</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>31</vlc:id>
+					<vlc:option>program=102</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0031. Polsat Sport</title>
+				<location>dvb-t://frequency=674000000:inversion=2:bandwidth=8:code-rate-hp=9:code-rate-lp=9:modulation=0:transmission=0:guard=0:hierarchy=0</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>32</vlc:id>
+					<vlc:option>program=103</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0032. Polsat Film</title>
+				<location>dvb-t://frequency=674000000:inversion=2:bandwidth=8:code-rate-hp=9:code-rate-lp=9:modulation=0:transmission=0:guard=0:hierarchy=0</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>33</vlc:id>
+					<vlc:option>program=104</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0033. Comedy Central</title>
+				<location>dvb-t://frequency=674000000:inversion=2:bandwidth=8:code-rate-hp=9:code-rate-lp=9:modulation=0:transmission=0:guard=0:hierarchy=0</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>34</vlc:id>
+					<vlc:option>program=105</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0034. Polsat Sport Extra</title>
+				<location>dvb-t://frequency=674000000:inversion=2:bandwidth=8:code-rate-hp=9:code-rate-lp=9:modulation=0:transmission=0:guard=0:hierarchy=0</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>35</vlc:id>
+					<vlc:option>program=108</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0035. Moje Polskie Radio</title>
+				<location>dvb-t://frequency=674000000:inversion=2:bandwidth=8:code-rate-hp=9:code-rate-lp=9:modulation=0:transmission=0:guard=0:hierarchy=0</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>36</vlc:id>
+					<vlc:option>program=4097</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0036. Radio PIN</title>
+				<location>dvb-t://frequency=674000000:inversion=2:bandwidth=8:code-rate-hp=9:code-rate-lp=9:modulation=0:transmission=0:guard=0:hierarchy=0</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>37</vlc:id>
+					<vlc:option>program=4096</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0037. RMF FM</title>
+				<location>dvb-t://frequency=674000000:inversion=2:bandwidth=8:code-rate-hp=9:code-rate-lp=9:modulation=0:transmission=0:guard=0:hierarchy=0</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>38</vlc:id>
+					<vlc:option>program=4098</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0038. RMF MAXXX</title>
+				<location>dvb-t://frequency=674000000:inversion=2:bandwidth=8:code-rate-hp=9:code-rate-lp=9:modulation=0:transmission=0:guard=0:hierarchy=0</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>39</vlc:id>
+					<vlc:option>program=4099</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0039. Radio Zet</title>
+				<location>dvb-t://frequency=674000000:inversion=2:bandwidth=8:code-rate-hp=9:code-rate-lp=9:modulation=0:transmission=0:guard=0:hierarchy=0</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>40</vlc:id>
+					<vlc:option>program=4100</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0040. Antyradio</title>
+				<location>dvb-t://frequency=674000000:inversion=2:bandwidth=8:code-rate-hp=9:code-rate-lp=9:modulation=0:transmission=0:guard=0:hierarchy=0</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>41</vlc:id>
+					<vlc:option>program=4101</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0041. Radio Plus</title>
+				<location>dvb-t://frequency=674000000:inversion=2:bandwidth=8:code-rate-hp=9:code-rate-lp=9:modulation=0:transmission=0:guard=0:hierarchy=0</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>42</vlc:id>
+					<vlc:option>program=4102</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0042. Radio 100,1 FM Zlote Przeboje</title>
+				<location>dvb-t://frequency=674000000:inversion=2:bandwidth=8:code-rate-hp=9:code-rate-lp=9:modulation=0:transmission=0:guard=0:hierarchy=0</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>43</vlc:id>
+					<vlc:option>program=4103</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0043. TOK FM</title>
+				<location>dvb-t://frequency=674000000:inversion=2:bandwidth=8:code-rate-hp=9:code-rate-lp=9:modulation=0:transmission=0:guard=0:hierarchy=0</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>44</vlc:id>
+					<vlc:option>program=4104</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0044. 103,7 Roxy FM</title>
+				<location>dvb-t://frequency=674000000:inversion=2:bandwidth=8:code-rate-hp=9:code-rate-lp=9:modulation=0:transmission=0:guard=0:hierarchy=0</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>45</vlc:id>
+					<vlc:option>program=4105</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0045. Radio Eska ROCK</title>
+				<location>dvb-t://frequency=674000000:inversion=2:bandwidth=8:code-rate-hp=9:code-rate-lp=9:modulation=0:transmission=0:guard=0:hierarchy=0</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>46</vlc:id>
+					<vlc:option>program=4106</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0046. Radio Bajka</title>
+				<location>dvb-t://frequency=674000000:inversion=2:bandwidth=8:code-rate-hp=9:code-rate-lp=9:modulation=0:transmission=0:guard=0:hierarchy=0</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>47</vlc:id>
+					<vlc:option>program=4107</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0047. Nickelodeon</title>
+				<location>dvb-t://frequency=674000000:inversion=2:bandwidth=8:code-rate-hp=9:code-rate-lp=9:modulation=0:transmission=0:guard=0:hierarchy=0</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>48</vlc:id>
+					<vlc:option>program=106</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0048. Kino Polska</title>
+				<location>dvb-t://frequency=674000000:inversion=2:bandwidth=8:code-rate-hp=9:code-rate-lp=9:modulation=0:transmission=0:guard=0:hierarchy=0</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>49</vlc:id>
+					<vlc:option>program=107</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0049. Polsat News</title>
+				<location>dvb-t://frequency=674000000:inversion=2:bandwidth=8:code-rate-hp=9:code-rate-lp=9:modulation=0:transmission=0:guard=0:hierarchy=0</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>50</vlc:id>
+					<vlc:option>program=101</vlc:option>
+				</extension>
+			</track>
+			<track>
+				<title>0050. Polsat News</title>
+				<location>dvb-t://frequency=674000000:inversion=2:bandwidth=8:code-rate-hp=9:code-rate-lp=9:modulation=0:transmission=0:guard=0:hierarchy=0</location>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>51</vlc:id>
+					<vlc:option>program=109</vlc:option>
+				</extension>
+			</track>
+		</trackList>
+	</playlist>
